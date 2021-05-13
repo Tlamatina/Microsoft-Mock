@@ -5,13 +5,13 @@
     height:40px;
     width: 130px;
 }
-/* .navbar {
+.navbar {
     display: flex;
     justify-content: flex-start;
-    /* width: 100%; */
-    /* align-items: center; */
+    width: 100%;
+    align-items: center; 
 
-/* } */
+ }
 
 .container-fluid{
     display: flex;
